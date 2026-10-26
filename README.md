@@ -1,7 +1,11 @@
 <div align="center">
   <img src="./banner.png" width="100%" alt="Aisha Hashmi Coding Banner">
 </div>
-# Hey there, I'm Aisha Hashmi! 👋
+# Hey there, I'm Aisha Hashmi! 
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Aisha+Hashmi!+%F0%9F%91%8B;BCA+Student+%7C+Aspiring+Developer+%F0%9F%9A%80;Learning+%7C+Building+%7C+Growing+%E2%9C%A8;Turning+Ideas+Into+Code+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
 
 ### 💻 BCA Student | Aspiring Developer 🚀
 
