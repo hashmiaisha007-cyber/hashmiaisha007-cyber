@@ -44,6 +44,9 @@ A skill-sharing platform concept where people can share their knowledge, learn n
 
 To keep learning, build meaningful projects, and grow as a developer.
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hashmiaisha007-cyber&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
+
 
 ⭐ *"Code. Learn. Build. Repeat."*
