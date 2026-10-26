@@ -54,5 +54,13 @@ To keep learning, build meaningful projects, and grow as a developer.
   <img src="https://raw.githubusercontent.com/hashmiaisha007-cyber/hashmiaisha007-cyber/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 </p>
 
+<h2 align="center">📚 Currently Learning</h2>
+
+<p align="center">
+  🌐 Web Development &nbsp;|&nbsp;
+  💻 C++ &nbsp;|&nbsp;
+  🐍 Python &nbsp;|&nbsp;
+  🔐 Cybersecurity
+</p>
 
 ⭐ *"Code. Learn. Build. Repeat."*
