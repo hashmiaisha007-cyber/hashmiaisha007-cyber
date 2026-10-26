@@ -57,10 +57,19 @@ To keep learning, build meaningful projects, and grow as a developer.
 <h2 align="center">📚 Currently Learning</h2>
 
 <p align="center">
-  🌐 Web Development &nbsp;|&nbsp;
-  💻 C++ &nbsp;|&nbsp;
-  🐍 Python &nbsp;|&nbsp;
-  🔐 Cybersecurity
+  💻 C &nbsp;|&nbsp;
+  ⚡ C++ &nbsp;|&nbsp;
+  🌐 HTML &nbsp;|&nbsp;
+  🗄️ SQL &nbsp;|&nbsp;
+  🐍 Python
 </p>
 
-⭐ *"Code. Learn. Build. Repeat."*
+<p align="center">
+  ✨ Learning every day, practicing coding, and growing as a developer!
+</p>
+
+
+
+<p align="center">
+  🌐 Web Development &nbsp;|&nbsp;
+  💻 C++ &nb
