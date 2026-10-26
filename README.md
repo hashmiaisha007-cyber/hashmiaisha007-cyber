@@ -48,5 +48,11 @@ To keep learning, build meaningful projects, and grow as a developer.
   <img src="https://komarev.com/ghpvc/?username=hashmiaisha007-cyber&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 
+<h2 align="center">🐍 My Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hashmiaisha007-cyber/hashmiaisha007-cyber/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+</p>
+
 
 ⭐ *"Code. Learn. Build. Repeat."*
