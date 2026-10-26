@@ -23,6 +23,15 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,git,github,vscode" />
 </p>
 
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aisha-hashmi-8a143641a?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+
 ### 🚀 Featured Projects
 
 #### 💊 MediFind India
